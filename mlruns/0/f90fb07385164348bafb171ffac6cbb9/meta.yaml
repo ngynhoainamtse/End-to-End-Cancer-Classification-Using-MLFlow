@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nguyenhoainam/Desktop/DS-DA/Projects/End-to-End-Cancer-Classification-Using-MLFlow/mlruns/0/f90fb07385164348bafb171ffac6cbb9/artifacts
+end_time: 1730620109226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90fb07385164348bafb171ffac6cbb9
+run_name: polite-fish-933
+run_uuid: f90fb07385164348bafb171ffac6cbb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730620109220
+status: 3
+tags: []
+user_id: nguyenhoainam

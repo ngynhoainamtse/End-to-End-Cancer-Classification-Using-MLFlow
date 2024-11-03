@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nguyenhoainam/Desktop/DS-DA/Projects/End-to-End-Cancer-Classification-Using-MLFlow/mlruns/0/bc4de5afa83442a79eb87f6fb9cecceb/artifacts
+end_time: 1730624224583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc4de5afa83442a79eb87f6fb9cecceb
+run_name: bright-conch-29
+run_uuid: bc4de5afa83442a79eb87f6fb9cecceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730624224577
+status: 3
+tags: []
+user_id: nguyenhoainam
