@@ -18,9 +18,6 @@ class ClientApp:
         self.classifier = PredictionPipeline(self.filename)
 
 
-
-
-
 @app.route("/", methods=['GET'])
 @cross_origin()
 def home():
